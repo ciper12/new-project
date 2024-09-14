@@ -1,0 +1,64 @@
+
+.main{
+    width: 450px;
+    position: absolute;
+    top: 100px;
+    left: 750px;
+    height: 470px;
+}
+.bodyContent{
+    position: relative;
+}
+#body{
+    height: calc(100vh -20px);
+    top: 0;
+    left: 0;
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    background: #ffffff;
+}
+.drinkText{
+    position: relative;
+    top: 150px;
+    left: 10px;
+    color: #727272;
+    font-size: 60px;
+    font-weight: 700;
+}
+.drinkBrand{
+    color:  #8f5843;
+}
+.introText{
+    color:  #8f5843;
+    position: relative;
+    top: 155px;
+    left: 15px;
+}
+.goog img{
+    width: 35%;
+    position: relative;
+    left: 5px;
+    top: 190px;
+    padding: 9px;
+}
+.apps img{
+    width: 32%;
+    position: relative;
+    left: 5px;
+    top: 190px;
+    padding: 9px;
+}
+.downText{
+    position: relative;
+    font-weight: 600;
+    top: 185px;
+    left: 15px;
+    font-style: italic;
+    color: rgb(5, 5, 5);
+}
