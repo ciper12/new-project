@@ -26,7 +26,7 @@
 .drinkText{
     position: relative;
     top: 150px;
-    left: 30px;
+    left: 10px;
     color: #727272;
     font-size: 60px;
     font-weight: 700;
@@ -38,19 +38,19 @@
     color:  #8f5843;
     position: relative;
     top: 155px;
-    left: 35px;
+    left: 15px;
 }
 .goog img{
     width: 35%;
     position: relative;
-    left: 25px;
+    left: 5px;
     top: 190px;
     padding: 9px;
 }
 .apps img{
     width: 32%;
     position: relative;
-    left: 15px;
+    left: 5px;
     top: 190px;
     padding: 9px;
 }
@@ -58,7 +58,7 @@
     position: relative;
     font-weight: 600;
     top: 185px;
-    left: 35px;
+    left: 15px;
     font-style: italic;
     color: rgb(5, 5, 5);
 }
