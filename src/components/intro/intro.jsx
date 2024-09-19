@@ -1,7 +1,6 @@
 import React from 'react';
 import './intro.css';
 import bg from '../../assets/image.svg';
-import text from '../../assets/Header.png';
 import google from '../../assets/Badge.svg';
 import store from '../../assets/Group.svg';
 
